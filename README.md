@@ -32,30 +32,6 @@ Abra o arquivo index.html no navegador.
 
 Clique no botão "Gerar" para criar uma nova paleta de cores.
 
-🌈 Exemplo de Uso
-
-Aqui está um exemplo do que você verá ao usar o gerador:
-
-Cor 1
-
-Cor 2
-
-Cor 3
-
-Cor 4
-
-Cor 5
-
-#FF5733
-
-#33FF57
-
-#3357FF
-
-#FFFF33
-
-#33FFF5
-
 🤝 Contribuindo
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, novas funcionalidades ou encontrar problemas, fique à vontade para abrir uma issue ou enviar um pull request.
